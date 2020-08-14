@@ -2,6 +2,7 @@
 
 namespace App\Exceptions;
 
+use Base\ForeCasts\Forecast\Infrastructure\ForecastServiceFailed;
 use Illuminate\Foundation\Exceptions\Handler as ExceptionHandler;
 use Throwable;
 
@@ -50,6 +51,16 @@ class Handler extends ExceptionHandler
      */
     public function render($request, Throwable $exception)
     {
+//        if ($exception instanceof ForecastServiceFailed) {
+//dd($exception->getFile());
+//            return response()->json(
+//                [
+//                    'error' => 'Entry for ' . str_replace('App\\', '', $exception->getModel()) . ' not found'
+//                ],
+//                404
+//            );
+//        }
+
         return parent::render($request, $exception);
     }
 }
