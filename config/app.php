@@ -187,7 +187,7 @@ return [
         */
         LaravelOWMServiceProvider::class,
         GeoCitiesApiServiceProvider::class,
-
+        L5Swagger\L5SwaggerServiceProvider::class,
     ],
 
     /*

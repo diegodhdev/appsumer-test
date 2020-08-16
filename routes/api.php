@@ -1,6 +1,5 @@
 <?php
 
-use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -16,5 +15,5 @@ use Illuminate\Support\Facades\Route;
 
 
 Route::prefix('v1')->group(function () {
-    Route::post('fore-cast/get', '\App\Http\Controllers\ForeCast\ForeCastGetController')->name('foreCastGet');
+    Route::post('forecast/get', '\App\Http\Controllers\ForeCast\ForeCastGetController')->name('foreCastGet');
 });
