@@ -6,7 +6,7 @@ Used src folder inside app as a default folder to separate logic from Laravel in
 
 ###Code for Weather exercise in app/src/ForeCasts
 - [Widget route](http://localhost)
-- [Api Documentation](http://localhost/api/documentation)
+- [Api Documentation](https://localhost/api/documentation)
 
 In the forecasts.php config file you can adjust the forecast provider. 
 
