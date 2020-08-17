@@ -4,7 +4,7 @@ Laradock was used as a development environment [https://laradock.io/]
 
 Used src folder inside app as a default folder to separate logic from Laravel infrastructure and Custom classes
 
-###Code for Weather exercise in app/src/ForeCasts
+### Code for Weather exercise in app/src/ForeCasts
 - [Widget route](http://localhost)
 - [Api Documentation](https://localhost/api/documentation)
 
@@ -14,7 +14,7 @@ Implementations:
 - Weatherbit
 - OpenWeahter
 
-###Code for Weather exercise in app/src/Logger and tests/src/Logger
+### Code for Weather exercise in app/src/Logger and tests/src/Logger
 
 This code for is just for demo purpose. Test cases have been implemented using fake implementations of Loggers which save data in filesystem to avoid delays in externals requests
  
