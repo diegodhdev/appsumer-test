@@ -16,7 +16,7 @@ Implementations:
 
 ### Code for Logger exercise in app/src/Logger and tests/src/Logger
 
-This code for is just for demo purpose. Test cases have been implemented using fake implementations of Loggers which save data in filesystem to avoid delays in externals requests
+This code for is just demo purpose. Test cases have been implemented using fake implementations of Loggers which save data in filesystem to avoid delays in externals requests
  
 There are some possible features which can be implemented to develop a more robust logger as:
 - Delay execution of logs collecting them in an array in the Logger class 
