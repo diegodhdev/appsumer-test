@@ -4,6 +4,8 @@ Laradock was used as a development environment [https://laradock.io/]
 
 Used src folder inside app as a default folder to separate logic from Laravel infrastructure and Custom classes
 
+Install composer dependencies and rename .env.example to .env
+
 ### Code for Weather exercise in app/src/ForeCasts
 - [Widget route](http://localhost)
 - [Api Documentation](https://localhost/api/documentation)
