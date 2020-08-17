@@ -8,6 +8,44 @@
       <sourceFolder url="file://$MODULE_DIR$/tests/Feature" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/tests/Unit" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/tests" isTestSource="true" packagePrefix="Tests\" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea/sonarlint/issuestore/0/0" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea/sonarlint/issuestore/0/7" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea/sonarlint/issuestore/0/9" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea/sonarlint/issuestore/0/a" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea/sonarlint/issuestore/0/d" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea/sonarlint/issuestore/0/f" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea/sonarlint/issuestore/1/1" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea/sonarlint/issuestore/1/4" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea/sonarlint/issuestore/1/a" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea/sonarlint/issuestore/1/d" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea/sonarlint/issuestore/2/6" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea/sonarlint/issuestore/2/8" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea/sonarlint/issuestore/2/a" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea/sonarlint/issuestore/2/b" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea/sonarlint/issuestore/3/4" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea/sonarlint/issuestore/4/1" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea/sonarlint/issuestore/6/5" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea/sonarlint/issuestore/6/d" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea/sonarlint/issuestore/7/2" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea/sonarlint/issuestore/8/e" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea/sonarlint/issuestore/8/f" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea/sonarlint/issuestore/9/a" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea/sonarlint/issuestore/9/c" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea/sonarlint/issuestore/9/d" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea/sonarlint/issuestore/a/1" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea/sonarlint/issuestore/a/5" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea/sonarlint/issuestore/b/9" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea/sonarlint/issuestore/b/e" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea/sonarlint/issuestore/c/5" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea/sonarlint/issuestore/c/f" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea/sonarlint/issuestore/d/3" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea/sonarlint/issuestore/d/9" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea/sonarlint/issuestore/d/a" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea/sonarlint/issuestore/f/3" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea/sonarlint/issuestore/f/7" />
+      <excludeFolder url="file://$MODULE_DIR$/storage/framework/cache/data/e9" />
+      <excludeFolder url="file://$MODULE_DIR$/storage/framework/cache/data/fa" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/asm89/stack-cors" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/attogram/weatherbit-api-wrapper" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/brick/math" />
