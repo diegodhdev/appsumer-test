@@ -14,7 +14,7 @@ Implementations:
 - Weatherbit
 - OpenWeahter
 
-### Code for Weather exercise in app/src/Logger and tests/src/Logger
+### Code for Logger exercise in app/src/Logger and tests/src/Logger
 
 This code for is just for demo purpose. Test cases have been implemented using fake implementations of Loggers which save data in filesystem to avoid delays in externals requests
  

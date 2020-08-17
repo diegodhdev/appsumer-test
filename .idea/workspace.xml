@@ -5,11 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="99f547f5-364b-4b20-83c1-a8b05ef0124a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/2/82d5312fac561f82d164506791b25f9a29239a73" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/2/82d5312fac561f82d164506791b25f9a29239a73" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/1/c141f7a09647a6d51a4b0824c9e0e74d1a458504" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/1/c141f7a09647a6d51a4b0824c9e0e74d1a458504" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -253,7 +248,7 @@
       <workItem from="1597494663683" duration="2386000" />
       <workItem from="1597577019248" duration="4357000" />
       <workItem from="1597581468096" duration="1138000" />
-      <workItem from="1597657215906" duration="131000" />
+      <workItem from="1597657215906" duration="181000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1597424832114</created>
@@ -290,7 +285,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597582013495</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Fix Readme">
+      <created>1597657367715</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1597657367715</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -302,9 +304,9 @@
     </ignored-roots>
     <MESSAGE value="commit" />
     <MESSAGE value="Uploading code" />
-    <MESSAGE value="Fix Readme" />
     <MESSAGE value="Common base to implement Buses and DDD" />
-    <option name="LAST_COMMIT_MESSAGE" value="Common base to implement Buses and DDD" />
+    <MESSAGE value="Fix Readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix Readme" />
   </component>
   <component name="WindowStateProjectService">
     <state x="137" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597320672706">
@@ -337,10 +339,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="415" y="212" key="#com.jetbrains.php.refactoring.pullPush.pullUp.PhpPullUpDialog#1/0.0.1280.680@0.0.1280.680" timestamp="1597485346479" />
-    <state x="238" y="0" key="CommitChangelistDialog2" timestamp="1597582009145">
+    <state x="238" y="0" key="CommitChangelistDialog2" timestamp="1597657359666">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="238" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1597582009145" />
+    <state x="238" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1597657359666" />
     <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1597581521039">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -356,15 +358,15 @@
     </state>
     <state x="142" y="0" key="SettingsEditor/0.0.1280.680/-1920.0.1920.1040@0.0.1280.680" timestamp="1597146876656" />
     <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1597580828364" />
-    <state width="498" height="446" key="SwitcherDM" timestamp="1597581594394">
+    <state width="498" height="446" key="SwitcherDM" timestamp="1597657392730">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.0.1280.680/-1920.0.1920.1040@0.0.1280.680" timestamp="1597168110585" />
-    <state width="498" height="446" key="SwitcherDM/0.0.1280.680@0.0.1280.680" timestamp="1597581594394" />
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1597582014177">
+    <state width="498" height="446" key="SwitcherDM/0.0.1280.680@0.0.1280.680" timestamp="1597657392730" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1597657366715">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1597582014177" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1597657366715" />
     <state x="221" y="0" key="com.intellij.database.dbimport.ImportDialog" timestamp="1597320322365">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
