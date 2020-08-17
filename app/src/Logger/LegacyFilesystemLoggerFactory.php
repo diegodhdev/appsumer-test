@@ -12,7 +12,7 @@ class LegacyFilesystemLoggerFactory implements LoggerFactory
 {
 
     /**
-     * @var LegacyFilesystemLogger Contract for legagcy
+     * @var LegacyFilesystemLogger Contract for legacy filesystem logger
      */
     private LegacyFilesystemLogger $logger;
 

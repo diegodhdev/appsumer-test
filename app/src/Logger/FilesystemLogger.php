@@ -5,7 +5,7 @@ namespace App\src\Logger;
 use App\src\Logger\Handlers\FilesystemHandler;
 
 /**
- * FilesystemLogger implementation
+ * FilesystemLogger implementation: Manage the actions which can be triggered for a Filesystem logger
  *
  * Class FilesystemLogger
  * @package App\src\Logger

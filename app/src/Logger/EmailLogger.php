@@ -5,7 +5,7 @@ namespace App\src\Logger;
 use App\src\Logger\Handlers\EmailSenderHandler;
 
 /**
- * EmailLogger implementation
+ * EmailLogger implementation: Manage the actions which can be triggered for a email logger
  *
  * Class EmailLogger
  * @package App\src\Logger

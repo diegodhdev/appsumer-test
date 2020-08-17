@@ -8,7 +8,7 @@ namespace App\src\Logger;
  * Class LocalLegacyFilesystemFilesystemLogger
  * @package App\src\Logger
  */
-class LocalLegacyFilesystemFilesystemLogger implements LegacyFilesystemLogger
+class LocalLegacyFilesystemLogger implements LegacyFilesystemLogger
 {
     /**
      * Legacy method to log messages and data on filesystem

@@ -21,6 +21,6 @@ This code is just for demo purpose. Test cases have been implemented using fake 
 There are some possible features which can be implemented to develop a more robust logger as:
 - Delay execution of logs collecting them in an array in the Logger class 
 - Autoconfigure one logger by default in a service provider and used this implementation as a default in the app
-- Extra refactoring can be apply in some parts of the code
+- Extra refactoring can be applied in some parts of the code
 
 Feel free to contact me if you have any doubt [mailto:diegodominguez.h@gmail.com]

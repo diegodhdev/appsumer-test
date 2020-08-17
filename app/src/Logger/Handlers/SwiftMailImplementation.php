@@ -3,7 +3,7 @@
 namespace App\src\Logger\Handlers;
 
 /**
- * Library to send emails
+ * SwiftMail Library to send emails
  *
  * Class SwiftMailImplementation
  * @package App\src\Logger\Handlers

@@ -5,7 +5,7 @@ namespace App\src\Logger\Handlers;
 use DateTimeImmutable;
 
 /**
- * Filesystem local logger handler implementation
+ * Filesystem local logger handler implementation: Manage how to persist logs in local filesystem
  *
  * Class LocalFilesystemHandler
  * @package App\src\Logger\Handlers

@@ -5,7 +5,7 @@ namespace App\src\Logger;
 use DateTimeImmutable;
 
 /**
- * Logger
+ * Logger: Logger generic class, define the generic actions for a logger. The class  which the rest of the Loggers needs to implement
  *
  * Contract to manage loggers instances
  * Contains the actions that a logger can perform

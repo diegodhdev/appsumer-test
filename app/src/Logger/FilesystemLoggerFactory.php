@@ -30,7 +30,7 @@ class FilesystemLoggerFactory implements LoggerFactory
 
     /**
      *
-     * Create an FilesystemLogger instance
+     * Create a FilesystemLogger instance
      *
      * @param string $path Path for logging on filesystem
      *

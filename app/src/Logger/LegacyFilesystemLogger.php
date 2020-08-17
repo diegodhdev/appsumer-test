@@ -4,7 +4,7 @@
 namespace App\src\Logger;
 
 /**
- * Contract for legacy filesystem logger instances
+ * Contract for legacy filesystem logger implementations
  *
  * Interface LegacyFilesystemLogger
  * @package App\src\Logger

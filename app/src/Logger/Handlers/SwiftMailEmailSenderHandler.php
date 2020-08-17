@@ -6,7 +6,7 @@ namespace App\src\Logger\Handlers;
 use DateTimeImmutable;
 
 /**
- * SwiftMail logger sender handler implementation
+ * SwiftMail logger sender handler implementation: Manage how to use swiftmail library to send logs
  *
  * Class LocalFilesystemHandler
  * @package App\src\Logger\Handlers

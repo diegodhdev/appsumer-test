@@ -5,7 +5,7 @@ namespace App\src\Logger\Handlers;
 use DateTimeImmutable;
 
 /**
- * Log filesystem handler contract
+ * Log filesystem handler contract: Manage the structure for a specific filesystem handler
  *
  * Interface EmailSenderHandler
  * @package App\src\Logger\Handlers

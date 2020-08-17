@@ -7,7 +7,7 @@ use App\src\Logger\Handlers\SwiftMailEmailSenderHandler;
 use App\src\Logger\Handlers\SwiftMailImplementation;
 
 /**
- * Methods to build loggers
+ * Methods to build loggers. Used as a shortcut method to create logger instances
  *
  * Trait LoggerTrait
  * @package App\src\Logger
@@ -21,7 +21,7 @@ trait LoggerTrait
 
     public function createLegacyFilesystemLogger(): Logger
     {
-        return (new LegacyFilesystemLoggerFactory(new LocalLegacyFilesystemFilesystemLogger()))->create();
+        return (new LegacyFilesystemLoggerFactory(new LocalLegacyFilesystemLogger()))->create();
     }
 
     public function createEmailLogger(): Logger
