@@ -15,19 +15,6 @@ class LoggerController extends ApiController
         $emailLogger            = self::createEmailLogger();
         $filesystemLogger       = self::createFilesystemLogger();
         $legacyFilesystemLogger = self::createLegacyFilesystemLogger();
-
-        $emailLogger->info('adsda',[]);
-        $filesystemLogger->info('adsda',[]);
-        $legacyFilesystemLogger->info('adsda',[]);
-
-        dd(
-            [
-                'emailLogger'            => $emailLogger,
-                'filesystemLogger'       => $filesystemLogger,
-                'legacyFilesystemLogger' => $legacyFilesystemLogger
-            ]
-        );
-
     }
 
     protected function exceptions(): array
